@@ -1,5 +1,14 @@
-# Getting Started with Create React App
+# tic-tac-toe
+This game was created by following the [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial).
 
+### Features:
+* lets you play tic-tac-toe,
+* indicates when player wins,
+* stores game's history,
+* allows players to review game's history and see previous verions of a game's board.
+
+
+## Notes from `Create React App`
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
